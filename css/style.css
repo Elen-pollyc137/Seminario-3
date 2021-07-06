@@ -40,7 +40,7 @@ nav{
     margin-left: 10%;
     max-width: 1180px;
     height: 600px;
-    border: 1px solid red;
+
 }
 .pac1{
     display: flex;
@@ -72,4 +72,5 @@ justify-content: left;
     background-color: royalblue;
     margin-bottom: 10px;
     max-width: 200px;
+    padding: 10px;
 }
